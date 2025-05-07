@@ -25,13 +25,13 @@
 ## 🚀 Featured Projects
 
 ### 1. Bro Chat - Real-Time Chat Application
-[![Repo](https://img.shields.io/badge/Repo-Bro_Chat-blue)](https://github.com/Piccio-Code/Bro-Chat)
+[![Repo](https://img.shields.io/badge/Repo-Bro_Chat-blue)](https://github.com/Piccio-Code/MessagingApp)
 Java-based chat app with JavaFX GUI and socket programming
 - Features: Multi-client support, dynamic coloring, MVC architecture
 - Tech: JavaFX | TCP/IP | Multithreading
 
 ### 2. Piccio Bird - Flappy Bird Clone 
-[![Repo](https://img.shields.io/badge/Repo-Piccio_Bird-green)](https://github.com/Piccio-Code/Piccio-Bird)
+[![Repo](https://img.shields.io/badge/Repo-Piccio_Bird-green)](https://github.com/Piccio-Code/FlappyBird)
 Python/Pygame implementation of classic mobile game
 - Features: Procedural obstacles, score system, collision detection
 - Tech: Pygame | OOP | Physics simulation
