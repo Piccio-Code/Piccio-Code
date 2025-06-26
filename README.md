@@ -58,11 +58,11 @@ Python/Pygame implementation of the classic mobile game with smooth physics and 
 ## 🌱 Learning Goals 2024-2025
 
 - [x] Build full-stack web apps with Flask (Flask completed! 🎯)
-- [ ] Master FastAPI for high-performance backend development
-- [ ] Deep dive into SQL databases and PostgreSQL
+- [x] Master FastAPI for high-performance backend development
+- [x] Deep dive into SQL databases and PostgreSQL
 - [ ] Implement Redis for caching and session management
-- [ ] Advanced web scraping with Requests and HTTP analysis
-- [ ] Build production-ready APIs with proper authentication and rate limiting
+- [x] Advanced web scraping with Requests and HTTP analysis
+- [x] Build production-ready APIs with proper authentication and rate limiting
 - [ ] Explore microservices architecture patterns
 
 ## 🎯 Current Focus Areas
