@@ -19,12 +19,23 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=flat&logo=python&logoColor=white)
-
-### **Currently Learning**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FCA121?style=flat&logo=python&logoColor=white)
+
+## 🧠 Currently Learning
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)](https://www.tensorflow.org/)  
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)](https://numpy.org/)  
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)](https://pandas.pydata.org/)  
+[![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)](https://scikit-learn.org/)  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)](https://matplotlib.org/)  
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=seaborn&logoColor=white&style=for-the-badge)](https://seaborn.pydata.org/)  
+[![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark&logoColor=white&style=for-the-badge)](https://spark.apache.org/)  
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white&style=for-the-badge)](https://kafka.apache.org/)  
+[![Hadoop](https://img.shields.io/badge/Hadoop-66CCEE?logo=apache-hadoop&logoColor=white&style=for-the-badge)](https://hadoop.apache.org/)
+
 
 ## 🚀 Featured Projects
 
@@ -60,10 +71,13 @@ Python/Pygame implementation of the classic mobile game with smooth physics and 
 - [x] Build full-stack web apps with Flask (Flask completed! 🎯)
 - [x] Master FastAPI for high-performance backend development
 - [x] Deep dive into SQL databases and PostgreSQL
-- [ ] Implement Redis for caching and session management
 - [x] Advanced web scraping with Requests and HTTP analysis
 - [x] Build production-ready APIs with proper authentication and rate limiting
-- [ ] Explore microservices architecture patterns
+
+## 🌱 Learning Goals 2025-2026
+
+- [ ] Learn Data Science & Machine Learning
+- [ ] Build a solid portfolio in **Data Science & Machine Learning**
 
 ## 🎯 Current Focus Areas
 
