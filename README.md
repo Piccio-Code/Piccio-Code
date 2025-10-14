@@ -6,7 +6,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Piccio-Code?tab=licenses)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lorenzo-piccini-61aa04359/)
-[![GitHub Followers](https://img.shields.io/github/followers/Piccio-Code?style=social)](https://github.com/Piccio-Code)
+[![GitHub Followers](https://img.shields.io/bithub/followers/Piccio-Code?style=social)](https://github.com/Piccio-Code)
 
 ## 🛠️ Technical Arsenal
 
@@ -23,19 +23,39 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FCA121?style=flat&logo=python&logoColor=white)
 
-## 🧠 Currently Learning
+## 📚 Currently Learning
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)  
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)](https://www.tensorflow.org/)  
-[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)](https://numpy.org/)  
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)](https://pandas.pydata.org/)  
-[![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)](https://scikit-learn.org/)  
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)](https://matplotlib.org/)  
-[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?logo=seaborn&logoColor=white&style=for-the-badge)](https://seaborn.pydata.org/)  
-[![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apache-spark&logoColor=white&style=for-the-badge)](https://spark.apache.org/)  
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white&style=for-the-badge)](https://kafka.apache.org/)  
-[![Hadoop](https://img.shields.io/badge/Hadoop-66CCEE?logo=apache-hadoop&logoColor=white&style=for-the-badge)](https://hadoop.apache.org/)
+### **Data Science & Machine Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=deeplearning&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=flat&logo=ai&logoColor=white)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
+### **Machine Learning Algorithms**
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-009688?style=flat&logo=ml&logoColor=white)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-FF9800?style=flat&logo=ml&logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-3F51B5?style=flat&logo=classification&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-E91E63?style=flat&logo=trending-up&logoColor=white)
+![Time Series](https://img.shields.io/badge/Time%20Series-4CAF50?style=flat&logo=time-series&logoColor=white)
+
+### **Data Analysis & Visualization**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=seaborn&logoColor=white)
+
+### **ML Operations**
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### **Big Data Engineering**
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCEE?style=flat&logo=apache-hadoop&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+
+### **Data Workflow**
+![Data Pre-processing](https://img.shields.io/badge/Data%20Pre--processing-0052CC?style=flat&logo=workflow&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-0052CC?style=flat&logo=database&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0052CC?style=flat&logo=analytics&logoColor=white)
 
 ## 🚀 Featured Projects
 
