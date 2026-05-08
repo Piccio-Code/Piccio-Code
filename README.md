@@ -65,9 +65,9 @@ A Pygame remake with smooth physics.
 
 - [x] Switch fully to backend  
 - [x] Start learning Go as main backend language  
-- [ ] Deepen SQL & PostgreSQL  
-- [ ] HTTP servers with `net/http`  
-- [ ] Build real backend apps with Gin  
+- [x] Deepen SQL & PostgreSQL  
+- [x] HTTP servers with `net/http`  
+- [x] Build real backend apps with Gin  
 - [ ] Learn Docker properly  
 
 ## 🎯 Goals 2026–2027
@@ -75,8 +75,8 @@ A Pygame remake with smooth physics.
 - [ ] **Build a strong portfolio**  
 - [ ] **Pass high school maturità 🎓**  
 - [ ] **Playlist Downloader rewritten in Go**  
-- [ ] **CRUD app in net/http**  
-- [ ] **CRUD app in Gin**  
+- [x] **CRUD app in net/http**  
+- [x] **CRUD app in Gin**  
 
 
 ## 📈 GitHub Stats
